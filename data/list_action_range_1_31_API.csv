@@ -4,7 +4,7 @@ tt10844184,Movie,Detour 95,2024,10,Action
 tt10928904,Movie,The Legend of Johnny Jones,2024,10,Action
 tt11078340,Movie,Slasher House 3,2024,3,Action
 tt11374514,Movie,Clank and the Golden Scar,2024,10,Action
-tt12037194,Movie,Furiosa: A Mad Max Saga,2024,5,Action
+tt12037194,Movie,Furiosa: De la saga Mad Max,2024,5,Action
 tt12529250,Movie,Danya,2024,,Action
 tt13143064,Movie,Adrienne,2024,,Action
 tt13176330,Movie,Hitpig,2024,,Action
@@ -12,7 +12,7 @@ tt13590374,Movie,Mnemonix,2024,12,Action
 tt13818368,Movie,Fighter,2024,1,Action
 tt14114688,Movie,L'Inferno (Remastered),2024,9,Action
 tt14564000,Movie,Guntur Kaaram,2024,1,Action
-tt15009428,Movie,Argylle - Tajny szpieg,2024,2,Action
+tt15009428,Movie,Argylle,2024,2,Action
 tt15127142,Movie,Nothing Unusual,2024,10,Action
 tt15239678,Movie,Dune: Part Two,2024,3,Action
 tt15535164,Movie,Sunset Shimmer and the Acidic Universe of Makori,2024,12,Action
@@ -53,7 +53,7 @@ tt27625837,Movie,Danger,2024,,Action
 tt27679654,Movie,Kamen Rider 555 20th: Paradise Regained,2024,2,Action
 tt27814598,Movie,Lothorin,2024,,Action
 tt27819748,Movie,Insurgency,2024,,Action
-tt27850011,Movie,Maybe I Am the Villain,2024,,Action
+tt27850011,Movie,Maybe I Am the Villain,2024,7,Action
 tt27895391,Movie,Chiller,2024,1,Action
 tt28074691,Movie,Eagle,2024,2,Action
 tt28129054,Movie,Take Cover,2024,,Action
@@ -81,7 +81,7 @@ tt29354785,Movie,A Bacon's War,2024,none,Action
 tt29426373,Movie,SPG,2024,3,Action
 tt29453957,Movie,Finding Faith,2024,8,Action
 tt29488411,Movie,Urban Vengeance,2024,4,Action
-tt29538571,Movie,Soixante minutes,2024,1,Action
+tt29538571,Movie,60 Minuten,2024,1,Action
 tt29632883,Movie,Crack: Back in Da Hood,2024,1,Action
 tt29667653,Movie,Runnin' from Wolves,2024,2,Action
 tt29710257,Movie,Irani,2024,2,Action
@@ -102,7 +102,7 @@ tt30260415,Movie,StarGazer: The Need of the Many,2024,1,Action
 tt30270137,Movie,Batman: Across the Super-Verse,2024,9,Action
 tt30275493,Movie,Sounds Like A Great Project!,2024,5,Action
 tt30364726,Movie,Citizen of a Kind,2024,1,Action
-tt30395619,Movie,Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,2024,2,Action
+tt30395619,Movie,"Kimetsu no Yaiba: Kizuna no Kiseki, Soshite Hashira Geiko e",2024,4,Action
 tt30396321,Movie,The Crypto: Dark Justice,2024,11,Action
 tt30399520,Movie,Lothorin: Part Two,2024,12,Action
 tt30415138,Movie,Toofan,2024,6,Action
@@ -113,7 +113,7 @@ tt30485382,Movie,Operation Baraat,2024,4,Action
 tt30476573,Movie,The Magnetic Fighters,2024,11,Action
 tt30609082,Movie,The Crypto: Beyond,2024,10,Action
 tt30661504,Movie,Troubleshooters,2024,10,Action
-tt30698096,Movie,Huan qian,2024,2,Action
+tt30698096,Movie,Breaking and Re-entering,2024,2,Action
 tt30768673,Movie,Jorge da Capadócia,2024,4,Action
 tt30777379,Movie,Pariah Volume 1: Every Street Dog Has a Name,2024,2,Action
 tt30808927,Movie,Boyz,2024,1,Action
@@ -128,7 +128,7 @@ tt30869046,Movie,Envidia la Película,2024,1,Action
 tt30887725,Movie,Jiwa 8 Belas,2024,1,Action
 tt30895352,Movie,Fast Furious,2024,1,Action
 tt30957694,Movie,Chinatown Chacha,2024,1,Action
-tt30958950,Movie,Lam see gip on,2024,1,Action
+tt30958950,Movie,Rob N Roll,2024,1,Action
 tt30961629,Movie,The Die Hard,2024,1,Action
 tt30970075,Movie,Deserved It,2024,2,Action
 tt30970235,Movie,Article 370,2024,2,Action
@@ -154,7 +154,7 @@ tt31093131,Movie,Fast Atlanta,2024,4,Action
 tt31115532,Movie,Malditos fantasmas,2024,10,Action
 tt31122323,Movie,Megamind och Undergångssyndikatet,2024,3,Action
 tt31149938,Movie,E-mail,2024,2,Action
-tt31152127,Movie,Xi zhuang bao tu,2024,1,Action
+tt31152127,Movie,Desperado,2024,1,Action
 tt31152166,Movie,Kizumonogatari: Koyomi Vamp,2024,1,Action
 tt31152181,Movie,Rooban,2024,4,Action
 tt31159130,Movie,Crypto Storm,2024,1,Action
@@ -213,7 +213,7 @@ tt31692378,Movie,The Birth,2024,6,Action
 tt31704401,Movie,Ji e,2024,2,Action
 tt30150907,Movie,Justice League: Crisis on Infinite Earths - Part Two,2024,4,Action
 tt31066103,Movie,PW V: Tears of the Fallen,2024,1,Action
-tt31557623,Movie,Akabane Honeko no Bodyguard,2024,8,Action
+tt31557623,Movie,Honeko Akabane's Bodyguards,2024,8,Action
 tt31563873,Movie,Las Viudas del Capo 2,2024,3,Action
 tt31718662,Movie,Karate Cops,2024,2,Action
 tt31721742,Movie,Maverick from the edge,2024,2,Action
@@ -221,11 +221,11 @@ tt31725814,Movie,Surrender,2024,4,Action
 tt31790164,Movie,The Club III,2024,8,Action
 tt31789137,Movie,Hattichhap,2024,2,Action
 tt31804488,Movie,Yamadheera,2024,3,Action
-tt31806053,Movie,Wonderful Precure! The Movie! Doki Doki Game no Sekai de Daiboken,2024,9,Action
+tt31806053,Movie,Wandafuru Purikyua! Za mubi! Doki Doki Game no Sekai de Daiboken,2024,9,Action
 tt31806068,Movie,Dragon,2024,3,Action
 tt31850446,Movie,Rebel,2024,5,Action
 tt31851880,Movie,Di Renjie zhi Tongtian xuan an,2024,2,Action
-tt31869664,Movie,Baki Hanma VS Kengan Ashura,2024,6,Action
+tt31869664,Movie,Baki Hanma kontra Kengan Ashura,2024,6,Action
 tt31888121,Movie,Kek 2,2024,5,Action
 tt31898764,Movie,Gauri Shankar ki Prem Kahani,2024,,Action
 tt31946567,Movie,Red vs. Blue: Restoration,2024,5,Action
@@ -241,10 +241,10 @@ tt32027823,Movie,Correr para Vivir,2024,4,Action
 tt32044730,Movie,The Codes of War,2024,none,Action
 tt32058493,Movie,Bride with the white hair,2024,none,Action
 tt32044814,Movie,Tales Beyond the Galaxy,2024,none,Action
-tt32063728,Movie,Sayen: La Cazadora,2024,4,Action
+tt32063728,Movie,Sayen: The Huntress,2024,4,Action
 tt32080771,Movie,Kung Fu,2024,none,Action
 tt32081990,Movie,Roudhra Rupaya,2024,4,Action
-tt32086021,Movie,"I, The Executioner",2024,5,Action
+tt32086021,Movie,"I, The Executioner",2024,9,Action
 tt32094375,Movie,Die Hart 2: Die Harter,2024,5,Action
 tt31722836,Movie,Soy creativa,2024,3,Action
 tt31778961,Movie,Firework,2024,6,Action
@@ -293,7 +293,7 @@ tt32292858,Movie,Opasni shmatki,2024,4,Action
 tt32296336,Movie,"War, Royal and Family/Impi Yobukhosi No Sapho",2024,1,Action
 tt32308617,Movie,Savi,2024,5,Action
 tt32307843,Movie,Purushothamudu,2024,5,Action
-tt32308418,Movie,How to Rob a Bank,2024,6,Action
+tt32308418,Movie,Hogyan raboljunk ki egy bankot,2024,6,Action
 tt32323204,Movie,Mustaqim,2024,4,Action
 tt32323733,Movie,Cruel War,2024,3,Action
 tt32338670,Movie,Road Wars: Max Fury,2024,5,Action
@@ -344,12 +344,11 @@ tt32642579,Movie,Ralph and Friends in New York,2024,12,Action
 tt32642807,Movie,Young Love,2024,9,Action
 tt32649985,Movie,La Venganza De Una Madre,2024,1,Action
 tt32658244,Movie,Preventer,2024,11,Action
-tt32670677,Movie,Night-shift Mannequin,2024,1,Action
 tt32677501,Movie,Sathaan,2024,,Action
 tt32732455,Movie,The Perfect Side Order,2024,,Action
 tt32739984,Movie,The Pie Man,2024,4,Action
 tt32750439,Movie,Operation Undead,2024,8,Action
-tt32752865,Movie,Dragon Ball Kai: Doragon Bôru Kai,2024,6,Action
+tt32752865,Movie,Dragon Ball Z Kai,2024,6,Action
 tt32765408,Movie,The Bottom Line,2024,7,Action
 tt32769006,Movie,Pikmin Destruction,2024,6,Action
 tt32799496,Movie,Wrong Number,2024,7,Action
@@ -1144,6 +1143,7 @@ tt32643743,Movie,Enemigas A Muerte,2023,11,Action
 tt32645616,Movie,Onimanji,2023,,Action
 tt32655078,Movie,Memphganistan,2023,8,Action
 tt32657017,Movie,Peace Rate,2023,10,Action
+tt32670677,Movie,Night-shift Mannequin,2023,,Action
 tt32678799,Movie,Grandson,2023,12,Action
 tt32792273,Movie,Mr. Bachelor,2023,1,Action
 tt32810634,Movie,Rwda,2023,9,Action
@@ -1449,6 +1449,56 @@ tt15215468,Movie,Noise,2022,1,Action
 tt15225872,Movie,Yavuz: Saha Varalim,2022,,Action
 tt15234148,Movie,Karma,2022,8,Action
 tt15241758,Movie,Hounded,2022,10,Action
+tt15243398,Movie,Rise of The Super Soldier: The New Blood,2022,8,Action
+tt15249688,Movie,The Squad: Rise of the Chicano Squad,2022,none,Action
+tt15251536,Movie,Kaapa,2022,12,Action
+tt15248456,Movie,Babbar,2022,3,Action
+tt15248702,Movie,Catwoman: Hunted,2022,2,Action
+tt15257278,Movie,Nü zi te bie xing dong,2022,,Action
+tt15281062,Movie,Out on a Lim,2022,11,Action
+tt15299702,Movie,7 Melek,2022,,Action
+tt15299768,Movie,Avci 2: Savas Melegi,2022,,Action
+tt15310188,Movie,Jetty,2022,11,Action
+tt15327256,Movie,Viruman,2022,8,Action
+tt15327170,Movie,Three (Qua Som De Chet),2022,9,Action
+tt15327556,Movie,Polar,2022,10,Action
+tt15334154,Movie,Lion-Girl,2022,,Action
+tt15334030,Movie,Martin,2022,,Action
+tt15367466,Movie,The Great Escape,2022,,Action
+tt15389086,Movie,The Dark Side,2022,,Action
+tt15391770,Movie,Corrective Measures,2022,4,Action
+tt15391274,Movie,Dr. Jason,2022,1,Action
+tt15391670,Movie,World War 4 - the Realism cut,2022,1,Action
+tt15413442,Movie,Tewyx,2022,3,Action
+tt15416250,Movie,Swayamsevak,2022,,Action
+tt15428374,Movie,Bullet,2022,,Action
+tt15428330,Movie,Kidô senshi Gundam Cucuruz Doan no shima,2022,6,Action
+tt15440524,Movie,Circumstances 3,2022,5,Action
+tt15441472,Movie,The Price We Pay,2022,8,Action
+tt15446186,Movie,Muleskinner,2022,3,Action
+tt15463690,Movie,Die weiße Frau 8: Resurrection,2022,2,Action
+tt15471656,Movie,Naachi,2022,,Action
+tt15469504,Movie,Kappei,2022,3,Action
+tt15476992,Movie,Caballero Águila,2022,1,Action
+tt1551614,Movie,Blowback,2022,6,Action
+tt15520090,Movie,Anka,2022,1,Action
+tt15527346,Movie,We the People,2022,,Action
+tt15528292,Movie,The Big Four,2022,12,Action
+tt15547896,Movie,Wrath of the Tarot Kings,2022,3,Action
+tt15552646,Movie,Cul-de-Sac,2022,,Action
+tt15552042,Movie,The Last Robin Hood,2022,,Action
+tt15552570,Movie,Dark Asset,2022,,Action
+tt15560174,Movie,Young Ronin,2022,,Action
+tt15554794,Movie,Bai Ji Kuttange,2022,8,Action
+tt15599252,Movie,Tone: World and Music,2022,3,Action
+tt15600582,Movie,Yaarukkum Anjael,2022,none,Action
+tt15621500,Movie,12 Hours,2022,2,Action
+tt15657528,Movie,Dominique,2022,,Action
+tt15660112,Movie,The Last Son,2022,9,Action
+tt15677238,Movie,Paradise,2022,,Action
+tt15709084,Movie,The Yokai King,2022,,Action
+tt15708990,Movie,Black Widows,2022,12,Action
+tt1630029,Movie,Avatar: The Way of Water,2022,12,Action
 tt12925840,Short,Eddie Thurber-IV-Victor the Shovel Returns,2024,7,Action
 tt18376030,Short,Chromakill,2024,,Action
 tt19714242,Short,SI-BO,2024,,Action
@@ -1592,7 +1642,7 @@ tt31956498,Short,Meat Worm,2024,3,Action
 tt31956788,Short,Roommates Part-3,2024,3,Action
 tt31956961,Short,The Experts Selamatkan Raya,2024,3,Action
 tt31960875,Short,Fearless Bond 2 the Last Fight,2024,3,Action
-tt31963001,Short,The Wong House,2024,,Action
+tt31963001,Short,The Wong House,2024,7,Action
 tt31969822,Short,Vampirtango,2024,3,Action
 tt31969951,Short,Panties for Cinderella,2024,4,Action
 tt31970020,Short,The Toothless Vampire,2024,4,Action
@@ -1607,14 +1657,14 @@ tt32045624,Short,Kukini,2024,3,Action
 tt32056129,Short,Cuentos tengo cientos,2024,4,Action
 tt32056426,Short,El Clásico,2024,4,Action
 tt32063115,Short,Nebunul,2024,9,Action
-tt32078973,Short,В.А.Й.Л.Д.,2024,7,Action
+tt32078973,Short,V.A.I.L.D.,2024,7,Action
 tt32085804,Short,Project Re: Fate,2024,8,Action
 tt32084772,Short,"Tranquil Waters, Boundless Skies",2024,4,Action
 tt32096172,Short,The Silencer,2024,4,Action
 tt32103554,Short,Kings of Triad: Uprising,2024,3,Action
 tt31369950,Short,Broken Promises - A Vengeance Story,2024,2,Action
 tt31727048,Short,Tryouts,2024,3,Action
-tt31728961,Short,The Dark Would,2024,10,Action
+tt31728961,Short,The Dark Would,2024,6,Action
 tt31778427,Short,The Last Stand,2024,3,Action
 tt31869296,Short,The Creature from Epping Forest 2: Born to Be Wild,2024,3,Action
 tt31889734,Short,O Assaltante Inexperiente,2024,3,Action
@@ -1629,7 +1679,7 @@ tt32133317,Short,The Four Empire Legends: Showdown,2024,3,Action
 tt32133543,Short,Swindler's Ring,2024,,Action
 tt32133560,Short,Rebirth of the Guardian,2024,5,Action
 tt32138963,Short,Le Club,2024,6,Action
-tt32147858,Short,Ember,2024,3,Action
+tt32147858,Short,Ember,2024,1,Action
 tt32149240,Short,Got Your Back,2024,4,Action
 tt32149486,Short,Mission Improbable,2024,4,Action
 tt32151114,Short,The Chase,2024,4,Action
@@ -1657,7 +1707,7 @@ tt32258516,Short,Unseen Genius,2024,5,Action
 tt32262852,Short,My Tongue Is Blue,2024,5,Action
 tt32280738,Short,Foucault,2024,5,Action
 tt32283843,Short,Azaad: Chapter 1,2024,5,Action
-tt32283867,Short,The Office,2024,6,Action
+tt32283867,Short,"Lights, Camera, Lies",2024,6,Action
 tt32294960,Short,Braccato,2024,4,Action
 tt32295012,Short,The Left Hand Path,2024,6,Action
 tt32321725,Short,The Act of Living,2024,none,Action
@@ -1703,7 +1753,7 @@ tt32510548,Short,ESCAPING 100 Layers of PAPER vs ROCK!,2024,5,Action
 tt32514606,Short,Bloodshed: Shadows of Betrayal,2024,5,Action
 tt32515527,Short,Captain Mayhem: The White Fox,2024,6,Action
 tt32516087,Short,S_U_P_R_E_M_A_C_Y,2024,5,Action
-tt32521240,Short,Count to Three and Go It!,2024,6,Action
+tt32521240,Short,Conte Até Três e Manda Ver!,2024,6,Action
 tt32526402,Short,Rovers,2024,6,Action
 tt32538785,Short,La leyenda del ronin,2024,3,Action
 tt32544886,Short,Bounty Hunters,2024,7,Action
@@ -1765,6 +1815,7 @@ tt32801333,Short,Ask Alice,2024,6,Action
 tt32809287,Short,The Legend of the Makwa 3: The Final Battle,2024,7,Action
 tt32810822,Short,That's Classified,2024,5,Action
 tt32810870,Short,"Cochon on Mars, Operation Ice Cream",2024,7,Action
+tt32812148,Short,The Red Ring: Part II,2024,7,Action
 tt32813331,Short,Igwe Jones,2024,7,Action
 tt32828720,Short,Brute,2024,8,Action
 tt32832241,Short,Bread,2024,7,Action
@@ -2899,3 +2950,52 @@ tt20221846,Short,Acts of Reminiscence,2022,5,Action
 tt20222482,Short,Dern of Africa jungle,2022,10,Action
 tt20230656,Short,The Assassins Creed and the Watch Dogs,2022,5,Action
 tt20231348,Short,Longer than Night,2022,5,Action
+tt20234618,Short,Surroundings,2022,none,Action
+tt20242860,Short,The Fight for the Penny,2022,6,Action
+tt20248560,Short,Asian Drivers,2022,12,Action
+tt20249374,Short,Elemental Differences,2022,5,Action
+tt20249486,Short,Return to Olympus,2022,5,Action
+tt20249470,Short,No Two Masters,2022,5,Action
+tt20249524,Short,The Portal Home,2022,5,Action
+tt20249544,Short,The Turn,2022,5,Action
+tt20250570,Short,Jack O' Chan in Halloween Fight Night!,2022,5,Action
+tt20244480,Short,Bhavana,2022,5,Action
+tt20257980,Short,The Briefcase,2022,5,Action
+tt20317196,Short,Grit,2022,4,Action
+tt20317824,Short,Siege of Paris,2022,5,Action
+tt20257460,Short,Fire & Blood,2022,3,Action
+tt20416216,Short,Small Hours of the Night,2022,5,Action
+tt20421928,Short,Det rätta valet,2022,5,Action
+tt20422284,Short,Death Over Light Ice,2022,5,Action
+tt20426714,Short,Supravietuitorul III,2022,7,Action
+tt20446174,Short,Stupidity 2,2022,5,Action
+tt20448254,Short,Duke,2022,none,Action
+tt20449562,Short,Juragan Jenglot Dari Rawa Belorong,2022,7,Action
+tt20456430,Short,Chaser,2022,3,Action
+tt20485830,Short,Elterntag,2022,4,Action
+tt20494884,Short,Level an Action,2022,1,Action
+tt20518370,Short,Red Zombies,2022,9,Action
+tt20560408,Short,Pencil 3: Left for Lead,2022,5,Action
+tt20600312,Short,Virgin Wars (2022 Remake),2022,6,Action
+tt20672954,Short,My Name is JIMBO,2022,6,Action
+tt20673162,Short,The Bear Knight Returns,2022,5,Action
+tt20673952,Short,Rage,2022,11,Action
+tt20715812,Short,The Data Scientist,2022,3,Action
+tt20723840,Short,Strange Tales,2022,,Action
+tt20755550,Short,The Ghostbuster Pt. 2,2022,5,Action
+tt20756140,Short,The Fallen Cadet,2022,7,Action
+tt20756588,Short,The Fallen Cadet,2022,7,Action
+tt20756624,Short,Samsara,2022,5,Action
+tt20766364,Short,Exo Sapien,2022,6,Action
+tt20770734,Short,Gawlo,2022,5,Action
+tt20771148,Short,Rich Insanity,2022,2,Action
+tt20835086,Short,Terror at Belgrave Terrace,2022,9,Action
+tt20834108,Short,Baltimore Bomb,2022,6,Action
+tt20836014,Short,Genesis X,2022,7,Action
+tt20853934,Short,Cold-Hearted Cunts,2022,,Action
+tt20860148,Short,TopGob,2022,6,Action
+tt20860712,Short,Project: Vegas,2022,,Action
+tt20861008,Short,The Resilience of Baalbek,2022,6,Action
+tt20866814,Short,Despondency,2022,6,Action
+tt20870218,Short,Cascada,2022,4,Action
+tt20870294,Short,Mark of Zorro Sword Fight,2022,5,Action
