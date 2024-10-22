@@ -1,5 +1,5 @@
 
-# 🎬 Cinem Extract 🎬
+# 🎬 Cinem Extract 📽️
 
 ## 📝 Project statement
 The streaming platform BHO is constantly looking to improve the quality of its content and the satisfaction of its users. Our project consists of applying data analysis techniques to identify which are the most popular and best rated movies and short films from 2010 to date. This will help BHO make informed decisions about what content to promote and highlight on its platform.
